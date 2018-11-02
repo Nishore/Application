@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.app2lib">
+
+    <application>
+        <activity android:name=".App2LibMainActivity"></activity>
+    </application>
+
+</manifest>
